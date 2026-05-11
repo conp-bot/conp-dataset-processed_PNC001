@@ -1,0 +1,83 @@
+{
+    "title": "processed_PNC001",
+    "description": "",
+    "creators": [
+        {
+            "name": "Multiple Contributors"
+        }
+    ],
+    "version": "2025-03-31T21:38:35.599824",
+    "types": [
+        {
+            "information": {
+                "value": "dataset"
+            }
+        }
+    ],
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "N/A"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 29.79,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/cu4t2/"
+            },
+            "formats": [
+                "N/A"
+            ]
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "source",
+            "values": [
+                {
+                    "value": "osf"
+                }
+            ]
+        },
+        {
+            "category": "osf_node_id",
+            "values": [
+                {
+                    "value": "cu4t2"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "12"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "N/A"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "CONP"
+                }
+            ]
+        }
+    ]
+}
